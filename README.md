@@ -60,3 +60,13 @@ Okay, it says to do the `bundle update` command, so I've done it to see if it fi
 After the execution of the `bundle update` command, I've retried to do `bundle install`.
 
 It worked! Now I'll push to GitHub to see if Jekyll works with GitHub Pages now.
+
+The website seems to work pretty well, now I'll try to write a new post.
+
+## Write a blog post
+Now, we have a functionnal website made with Jekyll.
+So, let's write an article on it!
+
+I created a markdown file in the [_posts](./docs/_posts/) folder with the name format `YYYY-MM-DD-name-of-post.markdown` and I copied the welcome post and changed it.
+
+So, now we have our first blog post!
